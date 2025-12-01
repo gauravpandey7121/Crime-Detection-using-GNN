@@ -1,0 +1,2 @@
+best_model,best_accuracy,best_cv_score,roc_auc,total_samples,hotspot_count,non_hotspot_count
+0,1.0,1.0,1.0,2009,2523,7518
